@@ -1,4 +1,4 @@
-# Rebbouh Mohamed 
+# Rebbouh Mohamed (i use arch btw )
 
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Rebbouh&theme=merko&hide_border=false&include_all_commits=false&count_private=true)
@@ -11,7 +11,6 @@
 ## About Me
 I am a Python Developer and Data Scientist from Algeria.
 I have a strong passion for computer vision and I am always looking to learn new things in this field.
-
 
 ## Skills
 - Python
