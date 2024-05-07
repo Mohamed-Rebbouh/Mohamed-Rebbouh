@@ -1,16 +1,29 @@
-### Hi there 👋
+# Rebbouh Mohamed 
 
-<!--
-**Mohamed-Rebbouh/Mohamed-Rebbouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Rebbouh&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+I am a Python Developer and Data Scientist from Algeria.
+I have a strong passion for computer vision and I am always looking to learn new things in this field.
+
+
+## Skills
+- Python
+- Javascript
+- C#
+- C++/C
+- Backend Development, API Development / Test
+- Django , Flask
+- Mysql, SQLite, Postgresql, MongoDB, Firebase, 
+- git, Github, Gitlab
+- Machine Learning
+- TF, PyTorch,scikit ,Transformers
+- Apache Superset
+- Software Testing
+
+## Contact Me
+You can reach me at [my email](mailto:info.moh.2003@gmail.com)
