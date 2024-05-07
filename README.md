@@ -18,6 +18,7 @@ I have a strong passion for computer vision and I am always looking to learn new
 - Javascript
 - C#
 - C++/C
+- lua 
 - Backend Development, API Development / Test
 - Django , Flask
 - Mysql, SQLite, Postgresql, MongoDB, Firebase, 
