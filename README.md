@@ -13,7 +13,7 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=1&color=ABD200&background=0A0F0B&center=true&vCenter=true&repeat=false&random=false&width=435&height=52&lines=About+Me" alt="Typing SVG" /></a>
 <br>
-I am a Python Developer and Data Scientist from Algeria.
+I am a Computer Science student ,Python Developer and Data Scientist from Algeria.
 I have a strong passion for computer vision and I am always looking to learn new things in this field.
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=1&color=ABD200&background=0A0F0B&center=true&vCenter=true&repeat=false&random=false&width=435&height=52&lines=Skills" alt="Typing SVG" /></a>
